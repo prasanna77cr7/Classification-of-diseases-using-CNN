@@ -11,4 +11,6 @@
  Users of all age groups, to identify their disease.
 
 ## Demo
- <img src="https://github.com/prasanna77cr7/ThePredictor/blob/master/DEMO/demoo.mp4" width=300 height=400>
+ <video width="320" height="240" controls>
+  <source src="https://github.com/prasanna77cr7/ThePredictor/blob/master/DEMO/demoo.mp4" type="video/mp4">
+ </video>
